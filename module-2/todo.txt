@@ -1,0 +1,4 @@
+***** TO-DO *****
+
+* Fix second row width in medium screen view
+* Add labels
